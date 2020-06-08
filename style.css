@@ -1,4 +1,4 @@
-body,html{
+body{
 	height: 100%;
     width: 100%;
     background-color: white;
@@ -65,7 +65,7 @@ body,html{
 .text{
     font-size: 50px;
     padding-top: 15px;
-    color: black;
+    color:white;
 }
 .bigtext{
 	color: white;
